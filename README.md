@@ -1,4 +1,10 @@
 # Correlation and regression for data analysis
+ex.no:
+
+name:R.TRISHA
+
+register no:
+
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -20,10 +26,12 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
+![Screenshot 2024-12-26 174312](https://github.com/user-attachments/assets/5c46ab40-c099-4f5f-98ff-4011dcdf831b)
 
-![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
 
-# Result
+# Output :
+![Screenshot 2024-12-26 174321](https://github.com/user-attachments/assets/5ada3177-7669-43d8-9eef-4404f7e77afd)
 
-# Output 
+# Result :
+![Screenshot 2024-12-26 174637](https://github.com/user-attachments/assets/345dbdb5-145c-4df3-84dc-312a912ae016)
