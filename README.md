@@ -1,4 +1,6 @@
 # Correlation and regression for data analysis
+date :
+
 ex.no:
 
 name:R.TRISHA
