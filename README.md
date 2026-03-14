@@ -1,11 +1,11 @@
 # Correlation and regression for data analysis
-date :
+date :12/02/2026
 
 ex.no:
 
 name:R.TRISHA
 
-register no:
+register no:212224100061
 
 # Aim : 
 
